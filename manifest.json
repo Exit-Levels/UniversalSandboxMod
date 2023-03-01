@@ -1,0 +1,13 @@
+{
+    "mod-id":"",
+    "author":"Author", 
+    "desc":"This is a template for a mod 1. Use this as snippet for mod_manifest.json", 
+    "short-desc":"Template for a mod 1",  
+    "game-settings": {
+        "max-players":4, 
+        "min-players":2,
+        "max-player-health":100,
+        "player-health-regenrate": 0.1, 
+        "map-size": 1000 
+    }
+}
