@@ -5,7 +5,7 @@
 * Created on *01.03.2023*
 * Last Updated: *01.03.2023*
 * File should be named mod_manifest.json
-* Documentation available at https://pagenotcreatedyet.com
+* Documentation available at https://exitlevels.github.io/mod_template/mod_manifest_docs.md
 
 ## Main
 ### ModID
