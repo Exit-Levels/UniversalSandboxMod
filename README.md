@@ -1,12 +1,9 @@
 # Universal Sandbox Mod Template
 
-This is template repository for creating mods (Also called: Games or Modes).
+Mod template for Universal Sanbox game
+Use ***template*** branch to create own repo
 
-All documentation is available in folders.
-Scripting documentation is in **/scripts/** folder etc.
-
-
-
+Full documentation available at [GitHub Wiki](https://github.com/Exit-Levels/UniversalSandboxMod/wiki)
 
 
 
